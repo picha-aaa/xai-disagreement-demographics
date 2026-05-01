@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+scikit-image
+matplotlib
+seaborn
+tqdm
+torch>=2.0
+torchvision
+lime
+shap
+grad-cam
+Pillow
+requests
+jupyter
